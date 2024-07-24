@@ -18,7 +18,6 @@ Repo for the `GitHub Actions Fundamentals` training.
 
 Please follow [these instructions](GettingReady.md) and make sure you have set up everything correctly following the [prerequisites](#-prerequisites).
 
-
 ## 📆 Agenda
 
 ### Day 1: 🚀 Getting started
